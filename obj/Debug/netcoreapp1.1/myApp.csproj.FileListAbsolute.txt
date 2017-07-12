@@ -1,0 +1,8 @@
+/Users/svh-it-dev2/myApp/bin/Debug/netcoreapp1.1/myApp.deps.json
+/Users/svh-it-dev2/myApp/bin/Debug/netcoreapp1.1/myApp.runtimeconfig.json
+/Users/svh-it-dev2/myApp/bin/Debug/netcoreapp1.1/myApp.runtimeconfig.dev.json
+/Users/svh-it-dev2/myApp/bin/Debug/netcoreapp1.1/myApp.dll
+/Users/svh-it-dev2/myApp/bin/Debug/netcoreapp1.1/myApp.pdb
+/Users/svh-it-dev2/myApp/obj/Debug/netcoreapp1.1/myApp.AssemblyInfo.cs
+/Users/svh-it-dev2/myApp/obj/Debug/netcoreapp1.1/myApp.dll
+/Users/svh-it-dev2/myApp/obj/Debug/netcoreapp1.1/myApp.pdb
